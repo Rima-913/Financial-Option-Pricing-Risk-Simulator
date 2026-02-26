@@ -56,5 +56,7 @@ The Quasi-Monte Carlo method reached a nearly identical result (29.15) but requi
 
 ## 🛠️ Tech Stack
 Language: Python
+
 Libraries: NumPy (Math), Pandas (Data), SciPy (Statistics), Matplotlib (Visualizing stock paths)
+
 Techniques: Geometric Brownian Motion, Owen Scrambling, Finite Difference Methods.
