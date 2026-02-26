@@ -32,7 +32,8 @@ Instead of one formula, we simulate 10,000 different possible "futures" for a st
 
 Upgrade: I used Stratified Sampling to ensure our "futures" are spread out evenly, making the result more accurate.
 
-The Smart Simulator (Quasi-Monte Carlo): * Traditional simulations use "random" numbers, which can sometimes "clump" together.
+### 3.The Smart Simulator (Quasi-Monte Carlo):
+Traditional simulations use "random" numbers, which can sometimes "clump" together.
 
 This project uses Sobol sequences, which are "smarter" numbers designed to cover every possibility more uniformly. This makes the simulation much faster and more stable.
 
