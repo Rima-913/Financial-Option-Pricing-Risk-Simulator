@@ -54,10 +54,7 @@ The Black-Scholes benchmark price was 29.17.
 
 The Quasi-Monte Carlo method reached a nearly identical result (29.15) but required fewer simulations to get there, proving it is a more efficient tool for professional traders.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Language: Python
-
 Libraries: NumPy (Math), Pandas (Data), SciPy (Statistics), Matplotlib (Visualizing stock paths)
-
-
 Techniques: Geometric Brownian Motion, Owen Scrambling, Finite Difference Methods.
